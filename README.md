@@ -4,9 +4,11 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ![image](https://github.com/user-attachments/assets/6bf791d1-61b1-4f54-a3db-4aeec896b73e)
 
-## ⚠️ Vulnerability Management Projects
+## ⚠️ Vulnerability Management and STIG Compliance Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/kevlo-cyber/vulnerability-management-program)**
+
+- **[STIG Compliance Program Implementation](https://github.com/kevlo-cyber/stig-compliance-program)**
 
 ![image](https://github.com/user-attachments/assets/f9b5cb64-30f0-4f3f-8bd0-73bd90d77ee8)
 
