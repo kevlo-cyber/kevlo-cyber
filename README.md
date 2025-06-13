@@ -16,6 +16,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/kevlo-cyber/threat-hunting-scenario-tor)**
 
+- **[Threat Hunting Scenario (Ransomware Pre-staging Activity)](https://github.com/kevlo-cyber/threat-hunting-scenario-ransomware-pre-staging-activity)**
+
 ![image](https://github.com/user-attachments/assets/efad175e-e225-4d45-8784-4a73088155aa)
 
 <hr/>
