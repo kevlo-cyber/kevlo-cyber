@@ -22,7 +22,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 📊 Governance, Risk & Compliance
 
+- **[Third Party Risk Management](https://github.com/kevlo-cyber/third-party-risk-management)**
 
+- **[GRC Content Creators](https://github.com/kevlo-cyber/grc-youtube)**
 
 ![image](https://github.com/user-attachments/assets/a82a537b-a742-40aa-9bee-bfadf4ac4911)
 
