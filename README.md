@@ -4,7 +4,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ![image](https://github.com/user-attachments/assets/6bf791d1-61b1-4f54-a3db-4aeec896b73e)
 
-## ⚠️ Vulnerability Management and STIG Compliance Projects
+## ⚠️ Vulnerability Management and STIGs
 
 - **[Vulnerability Management Program Implementation](https://github.com/kevlo-cyber/vulnerability-management-program)**
 
@@ -19,6 +19,13 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Threat Hunting Scenario (Ransomware Pre-staging Activity)](https://github.com/kevlo-cyber/threat-hunting-scenario-ransomware-pre-staging-activity)**
 
 ![image](https://github.com/user-attachments/assets/efad175e-e225-4d45-8784-4a73088155aa)
+
+## 📊 Governance, Risk & Compliance
+
+
+
+![image](https://github.com/user-attachments/assets/a82a537b-a742-40aa-9bee-bfadf4ac4911)
+
 
 <hr/>
 
