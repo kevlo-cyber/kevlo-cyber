@@ -34,13 +34,13 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Log Analysis](https://github.com/kevlo-cyber/log-analysis)**
 
-![image](https://github.com/user-attachments/assets/af027306-1cf2-4f6a-8c58-f7101ca53827)
+![image](https://github.com/user-attachments/assets/0d2cb9be-f621-4f2e-9b14-ae0461351cee)
 
 ## ⚔️ TryHackMe Red Teaming Walkthroughs (Under Construction/Not ready)
 
 - **[Red Team Fundumentals](https://github.com/kevlo-cyber/red-team-fundamentals)**
 
-![image](https://github.com/user-attachments/assets/e2ca4296-b137-46bf-b23e-7d1a8deb87e1)
+![image](https://github.com/user-attachments/assets/2ad18b2c-b812-4891-bac1-91f4521d8866)
 
 ## 🧪 Home Lab (Under Construction/Not Ready)
 
