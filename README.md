@@ -10,6 +10,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[STIG Compliance Program Implementation](https://github.com/kevlo-cyber/stig-compliance-program)**
 
+- **[Windows 10 STIG Compliance Scripts](https://github.com/kevlo-cyber/win10-stig-compliance-scripts)**
+
 ![image](https://github.com/user-attachments/assets/f9b5cb64-30f0-4f3f-8bd0-73bd90d77ee8)
 
 ## 🚨 Threat Hunting and Security Operations
