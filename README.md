@@ -36,7 +36,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ![image](https://github.com/user-attachments/assets/af027306-1cf2-4f6a-8c58-f7101ca53827)
 
-## ⚔️ TryHackMe Red Team Fundamentals Walkthroughs (Under Construction/Not ready)
+## ⚔️ TryHackMe Red Teaming Walkthroughs (Under Construction/Not ready)
 
 - **[Red Team Fundumentals](https://github.com/kevlo-cyber/red-team-fundamentals)**
 
